@@ -1,0 +1,630 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="E936BB9EFD62B045A77A0334BF0BE8EE">
+     <media>
+          <DOMBitmapItem name="caf1b8008149d6c1d81824bc6eb34692.jpg" itemID="626a71c0-00000007" sourceLastImported="1651143089" externalFileCRC32="791154145" externalFileSize="52736" allowSmoothing="true" quality="50" href="caf1b8008149d6c1d81824bc6eb34692.jpg" bitmapDataHRef="M 1 1651143104.dat" frameRight="11260" frameBottom="17480" isJPEG="true"/>
+     </media>
+     <symbols>
+          <Include href="Символ 1.xml" loadImmediate="false" itemID="626a7a08-00000022" lastModified="1651145224"/>
+          <Include href="Символ 2.xml" loadImmediate="false" itemID="626a8200-000000a2" lastModified="1651147264"/>
+          <Include href="Символ 3.xml" loadImmediate="false" itemID="626a8291-000000a5" lastModified="1651147409"/>
+          <Include href="Символ 4.xml" loadImmediate="false" itemID="626a8311-000000a8" lastModified="1651147537"/>
+          <Include href="Символ 5.xml" loadImmediate="false" itemID="626a83cd-000000ab" lastModified="1651147725"/>
+          <Include href="Символ 6.xml" loadImmediate="false" itemID="626a8481-000000ae" lastModified="1651147905"/>
+          <Include href="Символ 7.xml" loadImmediate="false" itemID="626a8515-000000b1" lastModified="1651148053"/>
+          <Include href="Символ 8.xml" loadImmediate="false" itemID="626aa6d5-0000000f" lastModified="1651156693"/>
+          <Include href="Символ 9.xml" loadImmediate="false" itemID="626aa74c-00000018" lastModified="1651156812"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1" currentFrame="148">
+               <layers>
+                    <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="256" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="256000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.49961" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-59.5" next="0,-59.5" previous="0,-59.5" roving="0" timevalue="47000"/><Keyframe anchor="0,-59.5" next="0,-59.5" previous="0,-59.5" roving="0" timevalue="79000"/><Keyframe anchor="0,-67" next="0,-67" previous="0,-67" roving="0" timevalue="95000"/><Keyframe anchor="0,-52.2" next="0,-52.2" previous="0,-52.2" roving="0" timevalue="111000"/><Keyframe anchor="0,-58.55" next="0,-58.55" previous="0,-58.55" roving="0" timevalue="126000"/><Keyframe anchor="0,-58.55" next="0,-58.55" previous="0,-58.55" roving="0" timevalue="149000"/><Keyframe anchor="0,-58.55" next="0,-58.55" previous="0,-58.55" roving="0" timevalue="166000"/><Keyframe anchor="0,-58.55" next="0,-58.55" previous="0,-58.55" roving="0" timevalue="203000"/><Keyframe anchor="0,-55.85" next="0,-55.85" previous="0,-55.85" roving="0" timevalue="219000"/><Keyframe anchor="0,-59.3" next="0,-59.3" previous="0,-59.3" roving="0" timevalue="232000"/><Keyframe anchor="0,-51.1" next="0,-51.1" previous="0,-51.1" roving="0" timevalue="245000"/><Keyframe anchor="0,-59.3" next="0,-59.3" previous="0,-59.3" roving="0" timevalue="255000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-24.9" next="0,-24.9" previous="0,-24.9" roving="0" timevalue="47000"/><Keyframe anchor="0,-24.9" next="0,-24.9" previous="0,-24.9" roving="0" timevalue="79000"/><Keyframe anchor="0,-24.9" next="0,-24.9" previous="0,-24.9" roving="0" timevalue="95000"/><Keyframe anchor="0,-25.55" next="0,-25.55" previous="0,-25.55" roving="0" timevalue="111000"/><Keyframe anchor="0,-27.45" next="0,-27.45" previous="0,-27.45" roving="0" timevalue="126000"/><Keyframe anchor="0,-27.45" next="0,-27.45" previous="0,-27.45" roving="0" timevalue="149000"/><Keyframe anchor="0,-27.45" next="0,-27.45" previous="0,-27.45" roving="0" timevalue="166000"/><Keyframe anchor="0,-27.45" next="0,-27.45" previous="0,-27.45" roving="0" timevalue="203000"/><Keyframe anchor="0,-27.45" next="0,-27.45" previous="0,-27.45" roving="0" timevalue="219000"/><Keyframe anchor="0,-26.65" next="0,-26.65" previous="0,-26.65" roving="0" timevalue="232000"/><Keyframe anchor="0,-32.1" next="0,-32.1" previous="0,-32.1" roving="0" timevalue="245000"/><Keyframe anchor="0,-28.45" next="0,-28.45" previous="0,-28.45" roving="0" timevalue="255000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,123.871" next="0,123.871" previous="0,123.871" roving="0" timevalue="47000"/><Keyframe anchor="0,138.384" next="0,138.384" previous="0,138.384" roving="0" timevalue="79000"/><Keyframe anchor="0,123.388" next="0,123.388" previous="0,123.388" roving="0" timevalue="95000"/><Keyframe anchor="0,146.292" next="0,146.292" previous="0,146.292" roving="0" timevalue="111000"/><Keyframe anchor="0,116.391" next="0,116.391" previous="0,116.391" roving="0" timevalue="126000"/><Keyframe anchor="0,138.519" next="0,138.519" previous="0,138.519" roving="0" timevalue="149000"/><Keyframe anchor="0,108.608" next="0,108.608" previous="0,108.608" roving="0" timevalue="166000"/><Keyframe anchor="0,138.543" next="0,138.543" previous="0,138.543" roving="0" timevalue="185000"/><Keyframe anchor="0,116.457" next="0,116.457" previous="0,116.457" roving="0" timevalue="203000"/><Keyframe anchor="0,146.336" next="0,146.336" previous="0,146.336" roving="0" timevalue="219000"/><Keyframe anchor="0,116.436" next="0,116.436" previous="0,116.436" roving="0" timevalue="232000"/><Keyframe anchor="0,146.439" next="0,146.439" previous="0,146.439" roving="0" timevalue="245000"/><Keyframe anchor="0,116.426" next="0,116.426" previous="0,116.426" roving="0" timevalue="255000"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="47000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="95000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="111000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="126000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="149000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="166000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="203000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="219000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="232000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="245000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="255000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 1">
+                                             <matrix>
+                                                  <Matrix tx="357.85" ty="135.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="19.65" y="32.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" duration="256" keyMode="9728">
+                                   <elements>
+                                        <DOMShape selected="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#61815A"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="2" edges="!7329.5 1006.5[#1CA0.59 #3EB.7E 7328 1000!7328 1000|7330 988!7330 988[7334 977 7342 973!7342 973[7346 971 7354 971!7354 971|7356 969!7356 969[7374 971 7380 985!7380 985[7388 999 7379 1013!7379 1013[7369 1028 7353 1026!7353 1026[#1CB0.2E
+ #401.1E 7337.5 1019.5!7278 990|7242 996!7242 996[7231 983 7228 969!7228 969|7227 964!7227 964|7229 960!7229 960|7236 950!7236 950|7241 948!7241 948|7260 943!7260 943[7266 943 7268 945!7268 945|7272 948!7272 948|7279 955!7279 955|7282
+ 959!7282 959|7283 964!7283 964[7283 977 7278 990"/>
+                                                  <Edge fillStyle1="1" edges="
+!7337.5 1019.5[#1CAA.79 #3FD.B6 7339 1024!7339 1024[7341 1037 7335 1049!7335 1049[7328 1062 7316 1067!7316 1067[7304 1072 7291 1068!7291 1068[7278 1064 7270 1053!7270 1053[7263 1043 7264 1029!7264 1029[7265 1015 7274 1005!7274 1005|7286
+ 997!7286 997|7302 993!7302 993[7315 994 7325 1003!7325 1003[#1C9F.68 #3EC.C 7329.5 1006.5"/>
+                                                  <Edge fillStyle0="1" fillStyle1="2" edges="
+!7337.5 1019.5[#1CA8.D3 #3FA.D3 7336 1018!7336 1018[#1CA3.72 #3F4.CB 7329.5 1006.5"/>
+                                                  <Edge cubics="!7274 1005(;7277,1002 7282,999 7286,997q7274 1005 7286 997);"/>
+                                                  <Edge cubics="!7339 1024(;7342,1041 7332,1060 7316,1067q7339 1024Q7341 1037q7335 1049Q7328 1062q7316 1067);"/>
+                                                  <Edge cubics="!7316 1067(;7300,1074 7280,1068 7270,1053q7316 1067Q7304 1072q7291 1068Q7278 1064q7270 1053);"/>
+                                                  <Edge cubics="!7270 1053(;7260,1039 7262,1018 7274,1005q7270 1053Q7263 1043q7264 1029Q7265 1015q7274 1005);"/>
+                                                  <Edge cubics="!7286 997(;7286,997 7302,993 7302,993q7286 997 7302 993);"/>
+                                                  <Edge cubics="!7330 988(;7332,982 7336,976 7342,973q7330 988Q7334 977q7342 973);"/>
+                                                  <Edge cubics="!7342 973(;7346,971 7350,971 7354,971q7342 973Q7346 971q7354 971);"/>
+                                                  <Edge cubics="!7354 971(;7355,970 7357,970 7356,969q7354 971Q7356 969q7356 969);"/>
+                                                  <Edge cubics="!7356 969(;7366,970 7376,976 7380,985q7356 969Q7374 971q7380 985);"/>
+                                                  <Edge cubics="!7380 985(;7385,994 7384,1005 7379,1013q7380 985Q7388 999q7379 1013);"/>
+                                                  <Edge cubics="!7379 1013(;7373,1022 7363,1027 7353,1026q7379 1013Q7369 1028q7353 1026);"/>
+                                                  <Edge cubics="!7328 1000(;7328,996 7329,992 7330,988q7328 1000 7330 988);"/>
+                                                  <Edge cubics="!7338 1020(;7337,1019 7337,1019 7336,1018q7338 1020Q7337 1019q7336 1018);"/>
+                                                  <Edge cubics="!7338 1020(;7338,1021 7338,1023 7339,1024q7338 1020Q7338 1022q7339 1024);"/>
+                                                  <Edge cubics="!7330 1007(;7329,1004 7328,1002 7328,1000q7330 1007Q7328 1003q7328 1000);"/>
+                                                  <Edge cubics="!7336 1018(;7333,1015 7331,1011 7330,1007q7336 1018Q7331 1013q7330 1007);"/>
+                                                  <Edge cubics="!7325 1003(;7326,1004 7328,1006 7330,1007q7325 1003Q7327 1005q7330 1007);"/>
+                                                  <Edge cubics="!7302 993(;7311,994 7318,997 7325,1003q7302 993Q7315 994q7325 1003);"/>
+                                                  <Edge cubics="!7353 1026(;7347,1025 7342,1023 7338,1020q7353 1026Q7344 1025q7338 1020);"/>
+                                                  <Edge cubics="!7278 990(;7266,992 7254,994 7242,996q7278 990 7242 996);"/>
+                                                  <Edge cubics="!7242 996(;7235,988 7230,979 7228,969q7242 996Q7231 983q7228 969);"/>
+                                                  <Edge cubics="!7228 969(;7227,968 7227,966 7227,964q7228 969 7227 964);"/>
+                                                  <Edge cubics="!7227 964(;7227,962 7228,961 7229,960q7227 964 7229 960);"/>
+                                                  <Edge cubics="!7236 950(;7238,949 7239,948 7241,948q7236 950 7241 948);"/>
+                                                  <Edge cubics="!7241 948(;7248,946 7254,945 7260,943q7241 948 7260 943);"/>
+                                                  <Edge cubics="!7260 943(;7263,943 7266,943 7268,945q7260 943Q7266 943q7268 945);"/>
+                                                  <Edge cubics="!7268 945(;7270,946 7271,947 7272,948q7268 945 7272 948);"/>
+                                                  <Edge cubics="!7272 948(;7274,950 7277,953 7279,955q7272 948 7279 955);"/>
+                                                  <Edge cubics="!7279 955(;7280,956 7281,957 7282,959q7279 955 7282 959);"/>
+                                                  <Edge cubics="!7282 959(;7283,960 7283,962 7283,964q7282 959 7283 964);"/>
+                                                  <Edge cubics="!7283 964(;7283,973 7281,982 7278,990q7283 964Q7283 977q7278 990);"/>
+                                                  <Edge cubics="!7229 960(;7229,960 7236,950 7236,950q7229 960 7236 950);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!5646 2663[5725 2712 5725 2711!5725 2711[5725 2710 5657 2769!5657 2769|5646 2663"/>
+                                                  <Edge cubics="!5646 2663(;5645,2663 5725,2712 5725,2711q5646 2663Q5725 2712q5725 2711);"/>
+                                                  <Edge cubics="!5725 2711(;5725,2710 5657,2770 5657,2769q5725 2711Q5725 2710q5657 2769);"/>
+                                                  <Edge cubics="!5657 2769(;5657,2768 5646,2663 5646,2663q5657 2769 5646 2663);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!5571 2719|5675 2753!5675 2753|5631 2793!5631 2793[5632 2793 5571 2719"/>
+                                                  <Edge cubics="!5571 2719(;5572,2720 5675,2753 5675,2753q5571 2719 5675 2753);"/>
+                                                  <Edge cubics="!5675 2753(;5675,2753 5630,2793 5631,2793q5675 2753Q5675 2753q5631 2793);"/>
+                                                  <Edge cubics="!5631 2793(;5632,2793 5571,2719 5571,2719q5631 2793Q5632 2793q5571 2719);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="409.15"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#617F59"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="1" strokeStyle="1" edges="
+!-1606 2410|-1657 2458!-1657 2458[-1727 2515 -1817 2562!-1817 2562[-2104 2713 -2484 2710!-2484 2710[-2593 2778 -2529 2886!-2529 2886[-2474 2980 -2315 3069!-2315 3069[-2161 3155 -2016 3180!-2016 3180[-1858 3206 -1809 3138!-1809 3138[-1723
+ 3018 -1656 2702"/>
+                                                  <Edge fillStyle0="1" edges="
+!-1656 2702|-1606 2410"/>
+                                                  <Edge cubics="!-1606 2410(;-1605,2410 -1877,2715 -2484,2710q-1606 2410Q-1606 2410q-1657 2458Q-1727 2515q-1817 2562Q-2104 2713q-2484 2710);"/>
+                                                  <Edge cubics="!-2484 2710(;-2796,2905 -1946,3330 -1809,3138q-2484 2710Q-2593 2778q-2529 2886Q-2474 2980q-2315 3069Q-2161 3155q-2016 3180Q-1858 3206q-1809 3138);"/>
+                                                  <Edge cubics="!-1809 3138(;-1752,3058 -1701,2913 -1656,2702q-1809 3138Q-1723 3018q-1656 2702);"/>
+                                                  <Edge cubics="!-1656 2702(;-1656,2702 -1606,2410 -1606,2410q-1656 2702 -1606 2410);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="18" ty="-59.05"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#909C38"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!6844 1610|6797 1601"/>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!6844 1610[#1AAB.B8 #640.97 6817 1591!6817 1591|6806 1577!6806 1577|6870 1529!6870 1529[6947 1479 7013 1463!7013 1463[#1BF2.95 #594.46 7211.5 1553.5"/>
+                                                  <Edge strokeStyle="1" edges="
+!7244 1688[#1C4D.E3 #6A6.77 7247 1718!7247 1718[6991 1681 6873 1625!6873 1625[#1AC8.DF #651.97 6844 1610!7211.5 1553.5[#1C43.53 #646.57 7244 1687.5"/>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!7244 1687.5|7244 1688!7211.5 1553.5[#1C47.DE #682.99 7244 1687.5!7244 1688|6844 1610!7404 1815|7470 1813!7470 1813[7546 1816 7595 1841!7595 1841[7753 1921 7584 2187!7584 2187[7518 2030 7454 1907!7454 1907|7404 1815"/>
+                                                  <Edge fillStyle0="1" strokeStyle="1" edges="
+!7700 2914[7771 2840 7799 2743!7799 2743[7855 2549 7639 2435!7639 2435[7631 2539 7665 2737!7665 2737[7682 2836 7700 2914"/>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!7724 3129|7790 3145!7790 3145[7864 3172 7909 3219!7909 3219[8050 3371 7833 3674!7833 3674[7732 3418 7718 3248!7718 3248[7713 3195 7718 3157!7718 3157|7724 3129!7874 3812|7946 3831!7946 3831[8029 3860 8085 3909!8085 3909[8265 4066 8112
+ 4366!8112 4366[7992 4134 7921 3950!7921 3950|7874 3812!8251 4593[8252 4594 8311 4597!8311 4597[8381 4605 8432 4631!8432 4631[8597 4713 8524 4943!8524 4943[8398 4866 8312 4722!8312 4722|8251 4593!8647 5073|8700 5059!8700 5059[8762 5047
+ 8813 5058!8813 5058[8976 5096 8958 5358!8958 5358[8782 5229 8697 5138!8697 5138|8647 5073"/>
+                                                  <Edge cubics="!6806 1577(;6806,1575 7106,1318 7212,1554q6806 1577 6870 1529Q6947 1479q7013 1463Q7155 1428q7212 1554);"/>
+                                                  <Edge cubics="!7404 1815(;7404,1814 7854,1761 7584,2187q7404 1815Q7404 1815q7470 1813Q7546 1816q7595 1841Q7753 1921q7584 2187);"/>
+                                                  <Edge cubics="!7584 2187(;7478,1936 7404,1815 7404,1815q7584 2187Q7518 2030q7454 1907Q7404 1815q7404 1815);"/>
+                                                  <Edge cubics="!7700 2914(;7700,2914 7985,2617 7639,2435q7700 2914Q7771 2840q7799 2743Q7855 2549q7639 2435);"/>
+                                                  <Edge cubics="!7639 2435(;7626,2602 7700,2914 7700,2914q7639 2435Q7631 2539q7665 2737Q7682 2836q7700 2914);"/>
+                                                  <Edge cubics="!7724 3129(;7724,3127 8180,3190 7833,3674q7724 3129Q7724 3129q7790 3145Q7864 3172q7909 3219Q8050 3371q7833 3674);"/>
+                                                  <Edge cubics="!7833 3674(;7671,3264 7724,3129 7724,3129q7833 3674Q7732 3418q7718 3248Q7713 3195q7718 3157Q7724 3129q7724 3129);"/>
+                                                  <Edge cubics="!7874 3812(;7874,3812 8357,3886 8112,4366q7874 3812Q7874 3812q7946 3831Q8029 3860q8085 3909Q8265 4066q8112 4366);"/>
+                                                  <Edge cubics="!8112 4366(;7920,3994 7874,3812 7874,3812q8112 4366Q7992 4134q7921 3950Q7874 3812q7874 3812);"/>
+                                                  <Edge cubics="!8251 4593(;8253,4595 8641,4575 8524,4943q8251 4593Q8252 4594q8311 4597Q8381 4605q8432 4631Q8597 4713q8524 4943);"/>
+                                                  <Edge cubics="!8524 4943(;8322,4819 8251,4593 8251,4593q8524 4943Q8398 4866q8312 4722Q8251 4593q8251 4593);"/>
+                                                  <Edge cubics="!8647 5073(;8647,5073 8986,4939 8958,5358q8647 5073Q8647 5073q8700 5059Q8762 5047q8813 5058Q8976 5096q8958 5358);"/>
+                                                  <Edge cubics="!8958 5358(;8676,5152 8647,5073 8647,5073q8958 5358Q8782 5229q8697 5138Q8647 5073q8647 5073);"/>
+                                                  <Edge cubics="!7212 1554(;7231,1629 7241,1674 7244,1688q7212 1554Q7240 1667q7244 1688);"/>
+                                                  <Edge cubics="!7244 1688(;7245,1697 7246,1707 7247,1718q7244 1688Q7246 1702q7247 1718);"/>
+                                                  <Edge cubics="!7212 1554(;7227,1589 7238,1633 7244,1688q7212 1554Q7235 1606q7244 1688);"/>
+                                                  <Edge cubics="!7244 1688(;7244,1688 6844,1610 6844,1610q7244 1688 6844 1610);"/>
+                                                  <Edge cubics="!6844 1610(;6844,1610 6797,1601 6797,1601q6844 1610 6797 1601);"/>
+                                                  <Edge cubics="!6844 1610(;6833,1604 6824,1598 6817,1591q6844 1610Q6828 1601q6817 1591);"/>
+                                                  <Edge cubics="!6873 1625(;6862,1620 6853,1615 6844,1610q6873 1625Q6857 1618q6844 1610);"/>
+                                                  <Edge cubics="!6817 1591(;6817,1591 6806,1577 6806,1577q6817 1591 6806 1577);"/>
+                                                  <Edge cubics="!7247 1718(;7076,1693 6952,1662 6873,1625q7247 1718Q6991 1681q6873 1625);"/>
+                                                  <Edge cubics="!7244 1688(;7244,1688 7244,1688 7244,1688q7244 1688);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-53" ty="-80.15"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#61815A"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="1" strokeStyle="1" edges="
+!7653 5974[7651 5969 7640 6027!7640 6027[7626 6095 7622 6166!7622 6166[7610 6390 7703 6543!7703 6543[7537 6664 7544 6669!7544 6669[7547 6671 7636 6673!7636 6673[7680 6674 7725 6674!7725 6674[7726 6674 7655 6736!7655 6736[7902 6716 7903
+ 6718!7903 6718[7904 6720 7822 6802!7822 6802[8539 6705 8540 6707!8540 6707[8551 6520 8583 6323!8583 6323[8647 5938 8756 5890!8756 5890[8758 5889 8761 5888!8761 5888[8799 5874 8756 5872!8756 5872[8671 5867 8275 5907"/>
+                                                  <Edge fillStyle0="1" edges="
+!8275 5907|7653 5974"/>
+                                                  <Edge cubics="!7653 5974(;7652,5971 7555,6299 7703,6543q7653 5974Q7651 5969q7640 6027Q7626 6095q7622 6166Q7610 6390q7703 6543);"/>
+                                                  <Edge cubics="!7703 6543(;7583,6630 7540,6666 7544,6669q7703 6543Q7537 6664q7544 6669);"/>
+                                                  <Edge cubics="!7544 6669(;7548,6672 7724,6674 7725,6674q7544 6669Q7547 6671q7636 6673Q7680 6674q7725 6674);"/>
+                                                  <Edge cubics="!7725 6674(;7726,6674 7655,6735 7655,6736q7725 6674Q7726 6674q7655 6736);"/>
+                                                  <Edge cubics="!7655 6736(;7655,6737 7902,6716 7903,6718q7655 6736Q7902 6716q7903 6718);"/>
+                                                  <Edge cubics="!7903 6718(;7904,6720 7822,6801 7822,6802q7903 6718Q7904 6720q7822 6802);"/>
+                                                  <Edge cubics="!7822 6802(;7822,6803 8539,6705 8540,6707q7822 6802Q8539 6705q8540 6707);"/>
+                                                  <Edge cubics="!8761 5888(;8786,5879 8785,5873 8756,5872q8761 5888Q8799 5874q8756 5872);"/>
+                                                  <Edge cubics="!8756 5890(;8757,5889 8759,5889 8761,5888q8756 5890Q8758 5889q8761 5888);"/>
+                                                  <Edge cubics="!8275 5907(;8275,5907 7653,5974 7653,5974q8275 5907 7653 5974);"/>
+                                                  <Edge cubics="!8540 6707(;8547,6582 8562,6454 8583,6323q8540 6707Q8551 6520q8583 6323);"/>
+                                                  <Edge cubics="!8583 6323(;8626,6066 8683,5922 8756,5890q8583 6323Q8647 5938q8756 5890);"/>
+                                                  <Edge cubics="!8756 5872(;8699,5869 8539,5880 8275,5907q8756 5872Q8671 5867q8275 5907);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#61815A"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!6576 1856.5[#1909.DD #71A.7A 6291 1760!6291 1760[6030 1632 6043 1422!6043 1422[6055 1209 6353 920!6353 920[6442 841 6519 808!6519 808[6561 790 6617 776!6617 776[6658 762 6683 721!6683 721[6713 673 6753 542!6753 542[6746 496 6865 441
+!6865 441[6996 381 7162 374!7162 374[7629 353 7913 763!7913 763[7956 825 7991 920!7991 920[8058 1104 8095 1412!8095 1412[8111 1545 8144 1843!8144 1843[8168 2032 8199 2193!8199 2193[8212 2262 8226 2326!8226 2326[8359 2914 8671 3385!8671
+ 3385[9070 3984 9797 4467!9797 4467[9877 4520 9714 4593!9714 4593[9577 4654 9305 4716!9305 4716[9060 4771 8847 4796!8847 4796[8628 4823 8615 4796!8615 4796[8610 4785 8222 4838!8222 4838[7739 4904 7396 4892!7396 4892[6212 4851 6256 3949
+!6256 3949[6293 3215 6374 2614!6374 2614[6471 1902 6576 1856.5"/>
+                                                  <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!6859 1902[#1B29.D4 #76B.08 7049 1915!7049 1915[#1B34.1D #779.86 6859 1902!6859 1902[#1AA5.CD #76A.3D 6782 1893!6782 1893[#1A0F.3C #756.1 6576 1856.5!6576 1856.5[#1A13.DE #715.35 6859 1902"/>
+                                                  <Edge cubics="!6753 542(;6736,432 7474,129 7913,763q6753 542Q6746 496q6865 441Q6996 381q7162 374Q7629 353q7913 763);"/>
+                                                  <Edge cubics="!9797 4467(;10026,4619 8650,4868 8615,4796q9797 4467Q9877 4520q9714 4593Q9577 4654q9305 4716Q9060 4771q8847 4796Q8628 4823q8615 4796);"/>
+                                                  <Edge cubics="!8615 4796(;8580,4724 6185,5406 6256,3949q8615 4796Q8610 4785q8222 4838Q7739 4904q7396 4892Q6212 4851q6256 3949);"/>
+                                                  <Edge cubics="!8199 2193(;8208,2243 8217,2285 8226,2326q8199 2193 8226 2326);"/>
+                                                  <Edge cubics="!7913 763(;7942,805 7968,858 7991,920q7913 763Q7956 825q7991 920);"/>
+                                                  <Edge cubics="!8671 3385(;8937,3784 9312,4145 9797,4467q8671 3385Q9070 3984q9797 4467);"/>
+                                                  <Edge cubics="!8226 2326(;8315,2718 8463,3071 8671,3385q8226 2326Q8359 2914q8671 3385);"/>
+                                                  <Edge cubics="!7049 1915(;7049,1915 6974,1914 6859,1902q7049 1915 6859 1902);"/>
+                                                  <Edge cubics="!6859 1902(;6780,1894 6682,1880 6576,1857q6859 1902 6782 1893Q6671 1878q6576 1857);"/>
+                                                  <Edge cubics="!6576 1857(;6173,1766 5727,1529 6353,920q6576 1857Q6410 1818q6291 1760Q6030 1632q6043 1422Q6055 1209q6353 920);"/>
+                                                  <Edge cubics="!8144 1843(;8160,1972 8178,2090 8199,2193q8144 1843Q8168 2032q8199 2193);"/>
+                                                  <Edge cubics="!8095 1412(;8106,1501 8122,1644 8144,1843q8095 1412Q8111 1545q8144 1843);"/>
+                                                  <Edge cubics="!7991 920(;8036,1045 8071,1208 8095,1412q7991 920Q8058 1104q8095 1412);"/>
+                                                  <Edge cubics="!6353 920(;6635,672 6641,910 6753,542q6353 920Q6442 841q6519 808Q6561 790q6617 776Q6658 762q6683 721Q6713 673q6753 542);"/>
+                                                  <Edge cubics="!6576 1857(;6635,1832 6725,1837 6859,1902q6576 1857Q6676 1813q6859 1902);"/>
+                                                  <Edge cubics="!6859 1902(;6965,1901 7049,1915 7049,1915q6859 1902Q6954 1899q7049 1915);"/>
+                                                  <Edge cubics="!6256 3949(;6298,3111 6423,1923 6576,1857q6256 3949Q6293 3215q6374 2614Q6471 1902q6576 1857);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix ty="-66.7"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#61815A"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="1" strokeStyle="1" edges="
+!7653 5974[7651 5969 7640 6027!7640 6027[7626 6095 7622 6166!7622 6166[7610 6390 7703 6543!7703 6543[7537 6664 7544 6669!7544 6669[7547 6671 7636 6673!7636 6673[7680 6674 7725 6674!7725 6674[7726 6674 7655 6736!7655 6736[7902 6716 7903
+ 6718!7903 6718[7904 6720 7822 6802!7822 6802[8539 6705 8540 6707!8540 6707[8551 6520 8583 6323!8583 6323[8647 5938 8756 5890!8756 5890[8758 5889 8761 5888!8761 5888[8799 5874 8756 5872!8756 5872[8671 5867 8275 5907"/>
+                                                  <Edge fillStyle0="1" edges="
+!8275 5907|7653 5974"/>
+                                                  <Edge cubics="!7653 5974(;7652,5971 7555,6299 7703,6543q7653 5974Q7651 5969q7640 6027Q7626 6095q7622 6166Q7610 6390q7703 6543);"/>
+                                                  <Edge cubics="!7703 6543(;7583,6630 7540,6666 7544,6669q7703 6543Q7537 6664q7544 6669);"/>
+                                                  <Edge cubics="!7544 6669(;7548,6672 7724,6674 7725,6674q7544 6669Q7547 6671q7636 6673Q7680 6674q7725 6674);"/>
+                                                  <Edge cubics="!7725 6674(;7726,6674 7655,6735 7655,6736q7725 6674Q7726 6674q7655 6736);"/>
+                                                  <Edge cubics="!7655 6736(;7655,6737 7902,6716 7903,6718q7655 6736Q7902 6716q7903 6718);"/>
+                                                  <Edge cubics="!7903 6718(;7904,6720 7822,6801 7822,6802q7903 6718Q7904 6720q7822 6802);"/>
+                                                  <Edge cubics="!7822 6802(;7822,6803 8539,6705 8540,6707q7822 6802Q8539 6705q8540 6707);"/>
+                                                  <Edge cubics="!8761 5888(;8786,5879 8785,5873 8756,5872q8761 5888Q8799 5874q8756 5872);"/>
+                                                  <Edge cubics="!8756 5890(;8757,5889 8759,5889 8761,5888q8756 5890Q8758 5889q8761 5888);"/>
+                                                  <Edge cubics="!8275 5907(;8275,5907 7653,5974 7653,5974q8275 5907 7653 5974);"/>
+                                                  <Edge cubics="!8540 6707(;8547,6582 8562,6454 8583,6323q8540 6707Q8551 6520q8583 6323);"/>
+                                                  <Edge cubics="!8583 6323(;8626,6066 8683,5922 8756,5890q8583 6323Q8647 5938q8756 5890);"/>
+                                                  <Edge cubics="!8756 5872(;8699,5869 8539,5880 8275,5907q8756 5872Q8671 5867q8275 5907);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="
+!7236 1136|7200 1141!7200 1141[7192 1132 7187 1116!7187 1116|7186 1109!7186 1109|7192 1099!7192 1099|7195 1095!7195 1095|7200 1093!7200 1093|7218 1089!7218 1089[7222 1087 7226 1089!7226 1089|7238 1101!7238 1101|7241 1105!7241 1105|7242
+ 1111!7242 1111[7242 1124 7236 1136"/>
+                                                  <Edge cubics="!7236 1136(;7224,1138 7212,1140 7200,1141q7236 1136 7200 1141);"/>
+                                                  <Edge cubics="!7200 1141(;7194,1134 7190,1125 7187,1116q7200 1141Q7192 1132q7187 1116);"/>
+                                                  <Edge cubics="!7187 1116(;7186,1114 7186,1111 7186,1109q7187 1116 7186 1109);"/>
+                                                  <Edge cubics="!7192 1099(;7193,1097 7194,1096 7195,1095q7192 1099 7195 1095);"/>
+                                                  <Edge cubics="!7195 1095(;7196,1094 7198,1093 7200,1093q7195 1095 7200 1093);"/>
+                                                  <Edge cubics="!7200 1093(;7206,1092 7212,1090 7218,1089q7200 1093 7218 1089);"/>
+                                                  <Edge cubics="!7218 1089(;7220,1088 7224,1088 7226,1089q7218 1089Q7222 1087q7226 1089);"/>
+                                                  <Edge cubics="!7238 1101(;7239,1102 7240,1104 7241,1105q7238 1101 7241 1105);"/>
+                                                  <Edge cubics="!7241 1105(;7242,1107 7242,1109 7242,1111q7241 1105 7242 1111);"/>
+                                                  <Edge cubics="!7242 1111(;7242,1120 7240,1128 7236,1136q7242 1111Q7242 1124q7236 1136);"/>
+                                                  <Edge cubics="!7226 1089(;7226,1089 7238,1101 7238,1101q7226 1089 7238 1101);"/>
+                                                  <Edge cubics="!7186 1109(;7186,1109 7192,1099 7192,1099q7186 1109 7192 1099);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="2">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!6577 1850[6687 1897 6833 1909!6833 1909[6929 1917 7097 1910!7097 1910[7141 1910 7170 1895!7170 1895[7182 1888 7198 1869!7198 1869[7217 1846 7225 1840"/>
+                                                  <Edge cubics="!6577 1850(;6740,1920 6922,1917 7097,1910q6577 1850Q6687 1897q6833 1909Q6929 1917q7097 1910);"/>
+                                                  <Edge cubics="!7097 1910(;7122,1910 7147,1907 7170,1895q7097 1910Q7141 1910q7170 1895);"/>
+                                                  <Edge cubics="!7170 1895(;7192,1882 7205,1857 7225,1840q7170 1895Q7182 1888q7198 1869Q7217 1846q7225 1840);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="5.15" ty="-12.8"/>
+                                             </matrix>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#909C38"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!5522 2742[5508 2976 5517 3085!5517 3085[5534 3272 5622 3407"/>
+                                                  <Edge cubics="!5522 2742(;5515,2855 5507,2970 5517,3085q5522 2742Q5508 2976q5517 3085);"/>
+                                                  <Edge cubics="!5517 3085(;5527,3197 5560,3312 5622,3407q5517 3085Q5534 3272q5622 3407);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="2.95" ty="3"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#CCFF00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#CCFF00"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!5661 2393[#161D.15 #960.13 5636.5 2419!5636.5 2419[5611.75 #985.C4 5576 2451!5576 2451[#15A4.3F #9A0.3B 5511.5 2432!5511.5 2432[#156A.EA #95F.EC 5483 2393!5483 2393[5483 2386 5509 2380!5509 2380[5535 2375 5572 2375!5572 2375[5609 2375
+ 5635 2380!5635 2380[5661 2386 5661 2393"/>
+                                                  <Edge cubics="!5576 2451(;5552,2460 5531,2453 5512,2432q5576 2451Q5540 2464q5512 2432);"/>
+                                                  <Edge cubics="!5661 2393(;5661,2398 5653,2406 5637,2419q5661 2393Q5661 2400q5637 2419);"/>
+                                                  <Edge cubics="!5512 2432(;5493,2411 5483,2398 5483,2393q5512 2432Q5483 2400q5483 2393);"/>
+                                                  <Edge cubics="!5637 2419(;5620,2432 5600,2442 5576,2451q5637 2419Q5612 2438q5576 2451);"/>
+                                                  <Edge cubics="!5635 2380(;5652,2384 5661,2388 5661,2393q5635 2380Q5661 2386q5661 2393);"/>
+                                                  <Edge cubics="!5572 2375(;5597,2375 5618,2377 5635,2380q5572 2375Q5609 2375q5635 2380);"/>
+                                                  <Edge cubics="!5509 2380(;5526,2377 5547,2375 5572,2375q5509 2380Q5535 2375q5572 2375);"/>
+                                                  <Edge cubics="!5483 2393(;5483,2388 5492,2384 5509,2380q5483 2393Q5483 2386q5509 2380);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="1 листик" color="#FF4FFF" autoNamed="false" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="47" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="-0.181167602539062" b="-0.250717163085938" c="0.881057739257812" d="0.236068725585938" tx="224.25" ty="161.65"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#CCCCCC"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!5235 2260[5133 2079 5055 1995!5055 1995[4899 1828 5025 2311!5025 2311[5101 2305 5235 2260"/>
+                                                  <Edge cubics="!5235 2260(;5236,2259 4823,1538 5025,2311q5235 2260Q5133 2079q5055 1995Q4899 1828q5025 2311);"/>
+                                                  <Edge cubics="!5025 2311(;5101,2305 5235,2260 5235,2260q5025 2311Q5101 2305q5235 2260);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="47" duration="209" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="209000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="1" xformPtYOffsetPct="0" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,28.2" next="0,28.2" previous="0,28.2" roving="0" timevalue="32000"/><Keyframe anchor="0,-18.65" next="0,-18.65" previous="0,-18.65" roving="0" timevalue="63000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-7.7" next="0,-7.7" previous="0,-7.7" roving="0" timevalue="32000"/><Keyframe anchor="0,127.6" next="0,127.6" previous="0,127.6" roving="0" timevalue="63000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="63000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 2">
+                                             <matrix>
+                                                  <Matrix tx="265" ty="121.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="15.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="2 листик" color="#009999" autoNamed="false" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="95" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.461669921875" b="-0.123687744140625" c="0.184844970703125" d="0.68994140625" tx="137.9" ty="75.45"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#CCCCCC"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!5235 2260[5133 2079 5055 1995!5055 1995[4899 1828 5025 2311!5025 2311[5101 2305 5235 2260"/>
+                                                  <Edge cubics="!5235 2260(;5236,2259 4823,1538 5025,2311q5235 2260Q5133 2079q5055 1995Q4899 1828q5025 2311);"/>
+                                                  <Edge cubics="!5025 2311(;5101,2305 5235,2260 5235,2260q5025 2311Q5101 2305q5235 2260);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="95" duration="161" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="161000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.497942" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,32.45" next="0,32.45" previous="0,32.45" roving="0" timevalue="16000"/><Keyframe anchor="0,-1.1" next="0,-1.1" previous="0,-1.1" roving="0" timevalue="42000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-3.55" next="0,-3.55" previous="0,-3.55" roving="0" timevalue="16000"/><Keyframe anchor="0,135.1" next="0,135.1" previous="0,135.1" roving="0" timevalue="42000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="16000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="42000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 3">
+                                             <matrix>
+                                                  <Matrix tx="270.95" ty="111.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="4.35" y="6.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="3 листик" color="#FF0000" autoNamed="false" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="166" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.468978881835938" b="0.125656127929688" c="-0.184295654296875" d="0.687835693359375" tx="161.8" ty="-1.9"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#CCCCCC"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!6162 2458[6060 2277 5982 2193!5982 2193[5826 2026 5952 2509!5952 2509[6028 2503 6162 2458"/>
+                                                  <Edge cubics="!6162 2458(;6163,2457 5750,1736 5952,2509q6162 2458Q6060 2277q5982 2193Q5826 2026q5952 2509);"/>
+                                                  <Edge cubics="!5952 2509(;6028,2503 6162,2458 6162,2458q5952 2509Q6028 2503q6162 2458);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="166" duration="90" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="90000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,21.45" next="0,21.45" previous="0,21.45" roving="0" timevalue="19000"/><Keyframe anchor="0,-25.7" next="0,-25.7" previous="0,-25.7" roving="0" timevalue="43000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-3.2" next="0,-3.2" previous="0,-3.2" roving="0" timevalue="19000"/><Keyframe anchor="0,153" next="0,153" previous="0,153" roving="0" timevalue="43000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="43000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 9">
+                                             <matrix>
+                                                  <Matrix tx="278.25" ty="109.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="2.7" y="6.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="4 листик" color="#669900" autoNamed="false" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="203" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.191650390625" b="0.2802734375" c="-0.599533081054688" d="0.467620849609375" tx="303.75" ty="-3.65"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#CCCCCC"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!5235 2260[5133 2079 5055 1995!5055 1995[4899 1828 5025 2311!5025 2311[5101 2305 5235 2260"/>
+                                                  <Edge cubics="!5235 2260(;5236,2259 4823,1538 5025,2311q5235 2260Q5133 2079q5055 1995Q4899 1828q5025 2311);"/>
+                                                  <Edge cubics="!5025 2311(;5101,2305 5235,2260 5235,2260q5025 2311Q5101 2305q5235 2260);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="203" duration="53" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="53000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.49763" xformPtYOffsetPct="0.497653" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,22.35" next="0,22.35" previous="0,22.35" roving="0" timevalue="16000"/><Keyframe anchor="0,-48.15" next="0,-48.15" previous="0,-48.15" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-6.35" next="0,-6.35" previous="0,-6.35" roving="0" timevalue="16000"/><Keyframe anchor="0,124.45" next="0,124.45" previous="0,124.45" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="16000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 5">
+                                             <matrix>
+                                                  <Matrix tx="282.6" ty="111.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="5.25" y="5.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="5 листик" color="#FF4F4F" autoNamed="false" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="232" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="-0.973434448242188" b="0.223129272460938" c="-0.315338134765625" d="-0.160140991210938" tx="567.45" ty="85"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#CCCCCC"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!5235 2260[5133 2079 5055 1995!5055 1995[4899 1828 5025 2311!5025 2311[5101 2305 5235 2260"/>
+                                                  <Edge cubics="!5235 2260(;5236,2259 4823,1538 5025,2311q5235 2260Q5133 2079q5055 1995Q4899 1828q5025 2311);"/>
+                                                  <Edge cubics="!5025 2311(;5101,2305 5235,2260 5235,2260q5025 2311Q5101 2305q5235 2260);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="232" duration="24" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="4194303" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="24000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.491525" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,22.85" next="0,22.85" previous="0,22.85" roving="0" timevalue="13000"/><Keyframe anchor="0,-20.3" next="0,-20.3" previous="0,-20.3" roving="0" timevalue="23000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-15.05" next="0,-15.05" previous="0,-15.05" roving="0" timevalue="13000"/><Keyframe anchor="0,110.85" next="0,110.85" previous="0,110.85" roving="0" timevalue="23000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Depth" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="23000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 6">
+                                             <matrix>
+                                                  <Matrix tx="277" ty="122.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="8.65" y="1.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

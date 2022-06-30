@@ -1,0 +1,28 @@
+<div class="middle">
+
+   <div class="quick">
+    <h2> Quick Links</h2>
+<ul>
+  <li> <a href=""> Home</a> </li>
+  <li> <a href=""> Product</a> </li>
+  <li> <a href=""> Pricing</a> </li>
+  <li> <a href=""> Recources</a> </li>
+  <li> <a href=""> Company</a> </li>
+  <li> <a href=""> Support</a> </li>
+  <li> <a href=""> Blog</a> </li>
+</ul>
+    </div>
+
+<div class="contactus">
+    <h2> Contact Us</h2>
+<p>Local Street Adress <br> Country, City, Zipcode</p>
+<p>Tel:(+ 000) 000 0000<br> Fax:(+ 000) 000 0000</p>
+<p>E-mail:info@yourdomarir.com<br> Website: http//www.abc.com</p>
+    </div>
+
+<div class="getittouch">
+  <h2> Get it touch</h2>
+  <form>
+
+  </form>
+    </div>

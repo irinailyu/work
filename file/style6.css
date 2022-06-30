@@ -1,0 +1,260 @@
+* { margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ color: #fff;
+list-style: none;}
+ body{ background-color: #2A62AF;}
+ .word_portfolio{
+   font-family: 'Dela Gothic One';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 140px;
+   line-height: 362px;
+   -webkit-text-fill-color: transparent;
+   -webkit-text-stroke: #fff 4px;
+   text-transform: uppercase;
+   position: absolute;
+   top: 25px;
+  text-align: center;
+   left:270px;}
+
+.card:hover {transform: rotateY(180deg);
+  cursor: pointer;}
+.card {margin: 50px auto;
+ width: 400px;
+ height: 600px; 
+ position: relative;
+ background-color: transparent;
+ transition: transform 1.6s;
+ transform-style: preserve-3d;}
+.front,.back{
+ height: 100%;
+ width: 100%;
+ position: absolute;
+ top: 0;
+ left: 0;
+ padding-top: 20px;
+ border-radius: 2px;
+ backface-visibility: hidden;}
+.front { height: 100%;
+ background: url(me1.jpg) no-repeat 0% 0%;}
+.back {background: url(me2.jpg) no-repeat 0% 0%;
+ transform: rotateY(180deg);
+ height: 100%;}
+.choose{list-style-type: none; 
+  display: flex; 
+  justify-content: space-between;}
+.stranica{display: block;
+  text-decoration: none; 
+  color: #fcfcfc;  
+  height: 100%;  
+  text-transform: uppercase;
+  transition: all .8s linear;
+ text-align: center;}
+.page{text-align: center;
+  font-size: 18px;  
+  width: 110px; 
+  font-family: Myriad Pro;
+  height: 100%;}
+.menu{ height: 50px; 
+  width: 960px; 
+  margin: 0 auto;
+ margin-top: 15px;}
+.stranica:hover{animation: pulse 1s infinite; 
+  color: rgb(0, 179, 255);}
+.copyright {color: #fff; 
+  font-size:14px; font-family: Myriad Pro;}
+.bottom{color: #fff; 
+  font-size: 14px;}
+.socnetwork {text-decoration: none; 
+  text-transform: uppercase; 
+  font-size: 14px; color: #fff;
+  font-family: Myriad Pro;}
+  .picture_footer{height: 30px;
+  width: 30px;  
+  margin-right: 7px;
+  animation: pulse 1s infinite;}
+footer { display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+ background-color: #26508b;
+ margin-bottom: 0px;}
+  
+/* second page*/ 
+.about_me {font-size: 80px;
+ font-family: 'Dela Gothic One';
+ font-style: normal;
+ font-weight: 400;
+ -webkit-text-fill-color: transparent;
+ -webkit-text-stroke: #fff 4px;
+ text-transform: uppercase;
+text-align: center;}
+.meeting, .skills, .character{font-size: 24px;
+  margin: 0 auto;
+ text-align: center;
+ font-family: Myriad Pro;
+ width: 70%;}
+ .meeting{
+margin-top: 30px;}
+.fact{ color: #fff; 
+  font-size: 18px;
+ padding: 110px 0px;
+ text-align: center;}
+ .diploms { display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+ margin-bottom: 40px;
+ margin-top: 40px;}
+ .important {
+ list-style: none;
+ text-align: center;
+ margin: 20px;}
+ .important_li{font-weight: bold; 
+  color: bisque;
+ font-size: 24px;
+ margin: 4px}
+ .al_content {display: flex;
+ justify-content: space-around;}
+ .diploms_picture:hover{animation: pulse 1s infinite; cursor: pointer;}
+ .diploms_picture{margin: 0 30px;}
+h2{ text-align: center;
+ text-transform: uppercase;
+ font-size: 35px;
+margin-top: 30px;
+font-family: Myriad Pro;
+color: rgb(199, 241, 227);
+animation: heartBeat 2s infinite;}
+.block1, .block2, .block3, .block4, .block5{width:300px;
+  height:225px;
+  overflow:hidden;
+  position:relative;
+  background:url(fact1.jpg);
+  background-size:cover;
+ margin-bottom: 10px;}
+.fact_text{position:absolute; 
+visibility:hidden;
+left:1px;
+background:rgba(0, 0, 0, 0.4392156862745098);
+font-size:18px;
+color: white;
+width: 300px;
+top:160px;
+font-family: Myriad Pro;}
+.block1:hover .fact_text,
+.block2:hover .fact_text,
+.block3:hover .fact_text,
+.block4:hover .fact_text,
+.block5:hover .fact_text{visibility:visible;
+transition:1s;
+-webkit-transition:1s;
+transform:translatey(-225px);
+-webkit-transform:translatey(-225px);}
+.block1:hover{filter:sepia(50%);
+-webkit-filter:sepia(60%);
+transition:0.6s;
+-webkit-transition:0.6s;}
+.block1{ background:url(fact1.jpg);}
+.block2{ background:url(fact2.jpg);}
+.block3{ background:url(fact3.png);}
+.block4{ background:url(fact4.jpg);}
+.block5{ background:url(fact5.jpg);}
+.five_fact{ margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  height: 100px;
+height: 100%;}
+
+/* third page*/ 
+h3{text-transform: uppercase;
+ font-family: 'Dela Gothic One';
+ font-size: 30px;
+ text-align: center;
+ position: relative;
+margin-bottom: 20px;
+margin-top: 10px;}
+ h3::after{position: absolute;
+ content: '';
+ width: 0%;
+ height: 4px;
+ background-color: #26508b;
+ left: 50%;
+ bottom: -5px;
+ transition: all 0.3s ease-in-out;}
+h3:hover{ cursor: pointer;}
+h3:hover::after{cursor: pointer;
+ width: 100%;
+ left: 0;}
+ .photoshop, .animate, .Max3d, .html {text-align: center;}
+ .works_in_portfolio { display: flex;
+ justify-content: space-around;
+ margin-bottom: 20px;}
+ .primery_rabot{ height: 400px;
+ width: 400px;
+ overflow: hidden;
+ align-content: center;
+ opacity: 70%;
+transition: all .3s linear;}
+ .primery_rabot:hover{opacity: 100%; 
+  cursor: pointer;
+ animation: flip 2s;}
+ .ps1{ background: url(photoshop2.jpg) no-repeat;
+ background-size: 400px 400px;}
+ .ps2{ background: url(photoshop3.jpg) no-repeat ;
+  background-size: 400px 430px;}
+.ps3{ background: url(photosh1.png) no-repeat 40% 40% ;
+background-size: cover;}
+
+ .maxwork1{background: url(3d1.jpg) no-repeat;
+ background-size: cover;}
+ .maxwork2 { background: url(3d2.jpg) no-repeat; background-size: cover;}
+
+ .aani1{height: 400px;
+ width: 400px;}
+ .htmlcss1{
+  height: 400px;
+  width: 650px;}
+
+
+
+/* four page*/
+.contact_me
+{font-size: 80px;
+ font-family: 'Dela Gothic One';
+ font-style: normal;
+ font-weight: 400;
+ -webkit-text-fill-color: transparent;
+ -webkit-text-stroke: #fff 4px;
+ text-transform: uppercase;
+ text-align: center;}
+ .fon_contact{width: 100%; 
+   margin: 0;
+  animation: none;}
+.iconki_network{width: 40px;
+ height: 40px;}
+ .connection{font-size: 20px;
+ text-transform: uppercase;
+ color: #fff;
+ text-align: center;
+ font-family: Myriad Pro;
+ margin-top: 60px ;}
+ .find_me{list-style: none; 
+  display: flex;
+ align-items: center;
+ align-content: center;
+ justify-content: center;
+ margin-top: 50px;
+ margin-bottom: 261px;}
+.four {display: flex;
+  justify-content: space-between;
+  height: 100%;}
+.iconki_network{ transition: 0.4s;
+ box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px, rgba(255, 255, 255) -3px -3px 6px 1px;
+background-color: #ecf2ff ; border-radius: 4px;}
+.iconki_network:hover {animation: none; 
+  transform: translateY(-10px);
+   background-color: transparent;}
+.my_contact{ margin-right: 25px;}

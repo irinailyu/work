@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 5" itemID="626a83cd-000000ab" lastModified="1651147725">
+  <timeline>
+    <DOMTimeline name="Символ 5">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.191650390625" b="0.2802734375" c="-0.599533081054688" d="0.467620849609375" tx="21.15" ty="-115.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5235 2260[5133 2079 5055 1995!5055 1995[4899 1828 5025 2311!5025 2311[5101 2305 5235 2260"/>
+                    <Edge cubics="!5235 2260(;5236,2259 4823,1538 5025,2311q5235 2260Q5133 2079q5055 1995Q4899 1828q5025 2311);"/>
+                    <Edge cubics="!5025 2311(;5101,2305 5235,2260 5235,2260q5025 2311Q5101 2305q5235 2260);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
